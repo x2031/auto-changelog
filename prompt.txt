@@ -36,6 +36,7 @@ Column rules:
 - "summary": a concise, human-friendly description (1–2 sentences) of the change, in plain text.
 
 Additional rules:
+- Use Chinese.
 - Sort rows in chronological order from oldest to newest (timeline).
 - DO NOT output any headings, paragraphs, bullets, comments, or explanations.
 - DO NOT wrap the table in code fences (no ```).
