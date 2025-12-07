@@ -42,6 +42,7 @@ Additional rules:
 - DO NOT wrap the table in code fences (no ```).
 - DO NOT include extra blank lines before or after the table.
 - The ENTIRE response MUST be only that single table. NOTHING MORE, NOTHING LESS.
+- Convert types (Features, Fixes, Improvements, Docs, etc.) into emoji.
 
 If there are no meaningful changes, output a table with a single row where:
 - date = today's date,
